@@ -1,0 +1,14 @@
+c:\users\loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\bin\Debug\Filatelists.exe.config
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\bin\Debug\Filatelists.exe
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\bin\Debug\Filatelists.pdb
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\obj\Debug\Filatelists.csprojResolveAssemblyReference.cache
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\obj\Debug\Filatelists.About.resources
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\obj\Debug\Filatelists.AddCollector.resources
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\obj\Debug\Filatelists.AddMark.resources
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\obj\Debug\Filatelists.Collectiors.resources
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\obj\Debug\Filatelists.MainForm.resources
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\obj\Debug\Filatelists.Properties.Resources.resources
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\obj\Debug\Filatelists.Themes.resources
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\obj\Debug\Filatelists.csproj.GenerateResource.Cache
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\obj\Debug\Filatelists.exe
+C:\Users\Loco\documents\visual studio 2015\Projects\Filatelists\Filatelists\obj\Debug\Filatelists.pdb
